@@ -399,7 +399,7 @@ def generate_comprehensive_html_report(standardized_data):
 """
     
     # Save HTML file
-    with open('Final_Student_Grade_Report.html', 'w', encoding='utf-8') as f:
+    with open('index.html', 'w', encoding='utf-8') as f:
         f.write(html_content)
     
     return students_analysis
@@ -496,7 +496,7 @@ def main():
         print(f"\n🎉 REPORTS GENERATED SUCCESSFULLY!")
         print("=" * 70)
         print("📁 Files created:")
-        print("   📄 Final_Student_Grade_Report.html - Beautiful web report")
+        print("   📄 index.html - Beautiful web report")
         print("   📊 Final_Student_Grade_Report.xlsx - Comprehensive Excel analysis")
         print("\n💡 Share these files with your team - no technical knowledge required!")
         

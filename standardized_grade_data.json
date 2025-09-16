@@ -1,0 +1,864 @@
+[
+  {
+    "name": "Esther Ediale",
+    "school": "Rainham Mark Grammar School",
+    "year": "Year 13",
+    "subjects": {
+      "English Literature": {
+        "current": "A",
+        "predicted": "A*"
+      },
+      "Religious Studies": {
+        "current": "A",
+        "predicted": "A"
+      },
+      "Sociology": {
+        "current": "B",
+        "predicted": "B"
+      }
+    },
+    "raw_current": "English Literature - A Religious Studies- A Sociology- B",
+    "raw_predicted": "English literature- A* Religious studies - A Sociology- B"
+  },
+  {
+    "name": "Samuel Adeyemi",
+    "school": "The Robert Napier School",
+    "year": "Year 13",
+    "subjects": {
+      "Criminology": {
+        "current": "B",
+        "predicted": "A"
+      },
+      "Sociology": {
+        "current": "B",
+        "predicted": "B"
+      },
+      "Sport": {
+        "current": "M",
+        "predicted": "M"
+      }
+    },
+    "raw_current": "Criminology- B Sociolgy- B Sport- Merit",
+    "raw_predicted": "Criminolgy- A Sociology- B Sport- MERIT"
+  },
+  {
+    "name": "Akeelah Sanderson",
+    "school": "Midkent College",
+    "year": "2nd year of college",
+    "subjects": {
+      "Health & Social Care": {
+        "current": "N/A",
+        "predicted": "N/A"
+      },
+      "Combined Subjects": {
+        "current": "N/A",
+        "predicted": "M"
+      }
+    },
+    "raw_current": "Health and social care -NA",
+    "raw_predicted": "Merit"
+  },
+  {
+    "name": "Nathaniel Mugutso",
+    "school": "Midkent college",
+    "year": "First Year",
+    "subjects": {
+      "Mathematics": {
+        "current": "5",
+        "predicted": "N/A"
+      },
+      "General Target": {
+        "current": "N/A",
+        "predicted": "8"
+      }
+    },
+    "raw_current": "Maths-5",
+    "raw_predicted": "8"
+  },
+  {
+    "name": "Davina Andorful",
+    "school": "Rainham School For Girls",
+    "year": "Year 13",
+    "subjects": {
+      "Finance": {
+        "current": "C",
+        "predicted": "B"
+      },
+      "Health & Social Care": {
+        "current": "M",
+        "predicted": "M"
+      },
+      "Criminology": {
+        "current": "C",
+        "predicted": "C"
+      }
+    },
+    "raw_current": "Finance - C Health & Social Care - Merit Criminology - C",
+    "raw_predicted": "Finance - B Health & Social Care - Merit Criminology - C"
+  },
+  {
+    "name": "Soala Frank-Briggs",
+    "school": "Invicta Grammar School",
+    "year": "Year 13",
+    "subjects": {
+      "English Literature": {
+        "current": "B",
+        "predicted": "B"
+      },
+      "History": {
+        "current": "A",
+        "predicted": "B"
+      },
+      "Business Studies": {
+        "current": "A",
+        "predicted": "B"
+      }
+    },
+    "raw_current": "English Literature-B, History- A, Business - A",
+    "raw_predicted": "English Literature-B, History- B, Business - B"
+  },
+  {
+    "name": "Shalom Dube",
+    "school": "Midkent college",
+    "year": "Business level 3 first year",
+    "subjects": {
+      "Course": {
+        "current": "N/A",
+        "predicted": "N/A"
+      }
+    },
+    "raw_current": "Business level 3 btec course - NA",
+    "raw_predicted": "N/a"
+  },
+  {
+    "name": "Kalvert Abbey",
+    "school": "Midkent College",
+    "year": "Last year of college",
+    "subjects": {
+      "Health & Social Care": {
+        "current": "DMM",
+        "predicted": "N/A"
+      },
+      "Combined Subjects": {
+        "current": "N/A",
+        "predicted": "DMM"
+      }
+    },
+    "raw_current": "Health and social Care - DMM",
+    "raw_predicted": "DMM"
+  },
+  {
+    "name": "Daniella Dada",
+    "school": "Thomas Aveling school",
+    "year": "Year 11",
+    "subjects": {
+      "English Language": {
+        "current": "5",
+        "predicted": "5"
+      },
+      "Mathematics": {
+        "current": "3",
+        "predicted": "7"
+      },
+      "History": {
+        "current": "6",
+        "predicted": "7"
+      },
+      "French": {
+        "current": "5",
+        "predicted": "7"
+      },
+      "Creative Computing": {
+        "current": "7",
+        "predicted": "7"
+      },
+      "Music": {
+        "current": "7",
+        "predicted": "7"
+      }
+    },
+    "raw_current": "English - 5 Mathematics - 3 History - 6 French - 5 Creative computing - 7 Music - 7",
+    "raw_predicted": "English - 5 Mathematics - 7 History - 7 French - 7 Creative computing - 7 Music - 7"
+  },
+  {
+    "name": "Ephraim Omokaro",
+    "school": "The Howard School",
+    "year": "Year 13",
+    "subjects": {
+      "Sport": {
+        "current": "N/A",
+        "predicted": "N/A"
+      },
+      "Combined Subjects": {
+        "current": "N/A",
+        "predicted": "DD*B"
+      },
+      "Religious Studies": {
+        "current": "N/A",
+        "predicted": "N/A"
+      }
+    },
+    "raw_current": "Double Btec sport -NA, NA, RE - NA",
+    "raw_predicted": "DD*B"
+  },
+  {
+    "name": "Dean Eacott",
+    "school": "Holcombe Grammar School",
+    "year": "Year 13",
+    "subjects": {
+      "Chemistry": {
+        "current": "BIOLOGY",
+        "predicted": "BIOLOGY"
+      }
+    },
+    "raw_current": "Biology A Chemistry A* Psychology A*",
+    "raw_predicted": "Biology A Chemistry A* Psychology A*"
+  },
+  {
+    "name": "Emmanuel amponsah",
+    "school": "Christ the king st Mary's",
+    "year": "Year 13",
+    "subjects": {
+      "Applied Science": {
+        "current": "D",
+        "predicted": "D"
+      }
+    },
+    "raw_current": "Btec applied science - distinction Btec applied science - distinction Btec applied science - distinction",
+    "raw_predicted": "Btec applied science - distinction Btec applied science - distinction Btec applied science - distinction"
+  },
+  {
+    "name": "Shalom Mutongi",
+    "school": "Midkent college",
+    "year": "Year 12",
+    "subjects": {
+      "Business Studies": {
+        "current": "D",
+        "predicted": "N/A"
+      }
+    },
+    "raw_current": "Level 3 Btec Business- distinction",
+    "raw_predicted": "Distinction"
+  },
+  {
+    "name": "Toluwanimi Asaju",
+    "school": "Chatham Grammar",
+    "year": "Year 13",
+    "subjects": {
+      "Economics": {
+        "current": "U",
+        "predicted": "B"
+      },
+      "Business Studies": {
+        "current": "E",
+        "predicted": "B"
+      },
+      "English Literature": {
+        "current": "M",
+        "predicted": "M"
+      }
+    },
+    "raw_current": "Economics-U Business-E I.T-M",
+    "raw_predicted": "Business-B Economics-B I.T-M"
+  },
+  {
+    "name": "Sharlom Verengera",
+    "school": "Holcombe Grammar",
+    "year": "Year 13",
+    "subjects": {
+      "Religious Studies": {
+        "current": "C",
+        "predicted": "N/A"
+      },
+      "English Literature": {
+        "current": "C",
+        "predicted": "N/A"
+      },
+      "Psychology": {
+        "current": "C",
+        "predicted": "N/A"
+      }
+    },
+    "raw_current": "Religious studies - C English Literature - C Psychology - C",
+    "raw_predicted": "B C C"
+  },
+  {
+    "name": "Iwinosa Osazee-Obasogie",
+    "school": "Brompron",
+    "year": "year 11",
+    "subjects": {
+      "Biology": {
+        "current": "5",
+        "predicted": "N/A"
+      },
+      "Chemistry": {
+        "current": "5",
+        "predicted": "N/A"
+      },
+      "Physics": {
+        "current": "5",
+        "predicted": "N/A"
+      },
+      "English Literature": {
+        "current": "4",
+        "predicted": "N/A"
+      },
+      "English Language": {
+        "current": "3",
+        "predicted": "N/A"
+      },
+      "Mathematics": {
+        "current": "5",
+        "predicted": "N/A"
+      },
+      "Spanish": {
+        "current": "7",
+        "predicted": "N/A"
+      },
+      "Psychology": {
+        "current": "6",
+        "predicted": "N/A"
+      },
+      "History": {
+        "current": "4",
+        "predicted": "N/A"
+      },
+      "Religious Studies": {
+        "current": "N/A",
+        "predicted": "ALL"
+      }
+    },
+    "raw_current": "biology - 5 chemistry - 5 physics - 5 english literature- 4 english language- 3 maths - 5 spanish - 7 psychology- 6 history - 4",
+    "raw_predicted": "all my subjects i’m predicted a 6"
+  },
+  {
+    "name": "Sophia Nnabue",
+    "school": "Rochester Grammar School for Girls",
+    "year": "Year 10",
+    "subjects": {
+      "Biology": {
+        "current": "7",
+        "predicted": "7"
+      },
+      "Chemistry": {
+        "current": "7",
+        "predicted": "7"
+      },
+      "Physics": {
+        "current": "6",
+        "predicted": "7"
+      },
+      "Mathematics": {
+        "current": "5",
+        "predicted": "7"
+      },
+      "English Language": {
+        "current": "6",
+        "predicted": "7"
+      },
+      "English Literature": {
+        "current": "6",
+        "predicted": "7"
+      },
+      "Sociology": {
+        "current": "N",
+        "predicted": "N"
+      },
+      "History": {
+        "current": "7",
+        "predicted": "7"
+      },
+      "Music": {
+        "current": "7",
+        "predicted": "7"
+      },
+      "Religious Studies": {
+        "current": "7",
+        "predicted": "7"
+      }
+    },
+    "raw_current": "Biology - 7 Chemistry - 7 Physics - 6 Maths - 5 English Lang - 6 English Lit - 6 Sociology - N/A (unsure) History - 7 Music - 7 Religious Studies - 7",
+    "raw_predicted": "Biology - 7 Chemistry- 7 Physics - 7 Maths - 7 Lang - 7 English Lit - 7 Sociology - N/A (unsure) History - 7 Music - 7 Religious Studies - 7"
+  },
+  {
+    "name": "Shalom Dube",
+    "school": "Midkent College",
+    "year": "Business level 3  final yeah",
+    "subjects": {
+      "BTEC Applied Science": {
+        "current": "BUSINESS",
+        "predicted": "N/A"
+      }
+    },
+    "raw_current": "Business level 3 btec",
+    "raw_predicted": "N/a"
+  },
+  {
+    "name": "Makatendeka Dube",
+    "school": "Walderslade girls school",
+    "year": "Year 11",
+    "subjects": {
+      "English Language": {
+        "current": "9",
+        "predicted": "N/A"
+      },
+      "English Literature": {
+        "current": "7",
+        "predicted": "N/A"
+      },
+      "Mathematics": {
+        "current": "5",
+        "predicted": "N/A"
+      },
+      "Music": {
+        "current": "5",
+        "predicted": "N/A"
+      },
+      "Child Development": {
+        "current": "L2",
+        "predicted": "N/A"
+      },
+      "Geography": {
+        "current": "6",
+        "predicted": "N/A"
+      }
+    },
+    "raw_current": "Combined science 9-9 English language- 9 English Literature- 7 Maths -5 Music- 5 Child development- L2 distinction/9 Health and social care L2 distinction/9 Geography-6",
+    "raw_predicted": "Na"
+  },
+  {
+    "name": "Victoria Dina",
+    "school": "Fort pitt grammar school",
+    "year": "Year 12",
+    "subjects": {
+      "Mathematics": {
+        "current": "7",
+        "predicted": "A*"
+      },
+      "Biology": {
+        "current": "8",
+        "predicted": "A*"
+      },
+      "Chemistry": {
+        "current": "8",
+        "predicted": "A*"
+      },
+      "Psychology": {
+        "current": "N/A",
+        "predicted": "A*"
+      }
+    },
+    "raw_current": "Maths - 7 Biology - 8 Chemistry - 8 Psychology - NA",
+    "raw_predicted": "Maths - A* Biology - A* Chemistry - A* Psychology - A*"
+  },
+  {
+    "name": "Victoria Adebayo",
+    "school": "Midkent college",
+    "year": "Lv 3 yr2 / yr 13",
+    "subjects": {
+      "Unknown Subject": {
+        "current": "BUSINESS",
+        "predicted": "N/A"
+      }
+    },
+    "raw_current": "Business",
+    "raw_predicted": "Na"
+  },
+  {
+    "name": "Murebo Joseph-obe",
+    "school": "rochester grammar school",
+    "year": "Year 10",
+    "subjects": {
+      "Sociology": {
+        "current": "N/A",
+        "predicted": "N/A"
+      },
+      "Chemistry": {
+        "current": "N/A",
+        "predicted": "N/A"
+      },
+      "Physics": {
+        "current": "N/A",
+        "predicted": "N/A"
+      },
+      "History": {
+        "current": "N/A",
+        "predicted": "N/A"
+      },
+      "Biology": {
+        "current": "N/A",
+        "predicted": "N/A"
+      },
+      "Buisness": {
+        "current": "N/A",
+        "predicted": "N/A"
+      },
+      "Spanish": {
+        "current": "N/A",
+        "predicted": "N/A"
+      },
+      "English Language": {
+        "current": "N/A",
+        "predicted": "N/A"
+      }
+    },
+    "raw_current": "Sociology - NA Chemistry - NA Physics - NA History - NA Biology - NA Buisness - NA Spanish - NA english - NA",
+    "raw_predicted": "Sociology - NA Chemistry - NA Physics - NA History - NA Biology - NA Buisness - NA Spanish - NA english - NA"
+  },
+  {
+    "name": "Mary Dina",
+    "school": "Fort Pitt Grammar School",
+    "year": "Year 11",
+    "subjects": {
+      "Biology": {
+        "current": "5",
+        "predicted": "N/A"
+      },
+      "Chemistry": {
+        "current": "5",
+        "predicted": "N/A"
+      },
+      "Physics": {
+        "current": "6",
+        "predicted": "N/A"
+      },
+      "English Language": {
+        "current": "6",
+        "predicted": "N/A"
+      },
+      "Mathematics": {
+        "current": "7",
+        "predicted": "N/A"
+      },
+      "Business Studies": {
+        "current": "6",
+        "predicted": "N/A"
+      },
+      "Spanish": {
+        "current": "6",
+        "predicted": "N/A"
+      },
+      "Geography": {
+        "current": "7",
+        "predicted": "N/A"
+      },
+      "Religious Studies": {
+        "current": "6",
+        "predicted": "N/A"
+      },
+      "ICT": {
+        "current": "N/A",
+        "predicted": "I"
+      }
+    },
+    "raw_current": "Biology- 5 Chemistry-5 Physics- 6 English- 6 Maths-7 Business-6 Spanish-6 Geography-7 RE-6",
+    "raw_predicted": "I have not been provided with this yet"
+  },
+  {
+    "name": "Kwabena Larbi",
+    "school": "Robert Napier School",
+    "year": "Year 10",
+    "subjects": {
+      "Mathematics": {
+        "current": "N/A",
+        "predicted": "N/A"
+      },
+      "English Language": {
+        "current": "N/A",
+        "predicted": "N/A"
+      },
+      "Biology": {
+        "current": "N/A",
+        "predicted": "N/A"
+      },
+      "Chemistry": {
+        "current": "N/A",
+        "predicted": "N/A"
+      },
+      "Physics": {
+        "current": "N/A",
+        "predicted": "N/A"
+      },
+      "Business Studies": {
+        "current": "N/A",
+        "predicted": "N/A"
+      },
+      "ICT": {
+        "current": "N/A",
+        "predicted": "N/A"
+      },
+      "Engineering": {
+        "current": "N/A",
+        "predicted": "N/A"
+      },
+      "Geography": {
+        "current": "N/A",
+        "predicted": "N/A"
+      },
+      "Physical Education": {
+        "current": "N/A",
+        "predicted": "N/A"
+      },
+      "Pdw": {
+        "current": "N/A",
+        "predicted": "N/A"
+      }
+    },
+    "raw_current": "Maths - NA English - NA Biology - NA Chemistry - NA Physics - NA Business studies - NA IT - NA Engineering - NA Geography - NA Pe - NA PDW - NA",
+    "raw_predicted": "Maths - NA English - NA Biology - NA Chemistry - NA Physics - NA Business studies - NA IT - NA Engineering - NA Geography - NA Pe - NA PDW - NA"
+  },
+  {
+    "name": "Daniela  Makuseva",
+    "school": "Brompton academy",
+    "year": "Year 11",
+    "subjects": {
+      "Mathematics": {
+        "current": "4",
+        "predicted": "N/A"
+      },
+      "Biology": {
+        "current": "5",
+        "predicted": "N/A"
+      },
+      "Chemistry": {
+        "current": "9",
+        "predicted": "N/A"
+      },
+      "Physics": {
+        "current": "5",
+        "predicted": "N/A"
+      },
+      "English Language": {
+        "current": "4",
+        "predicted": "N/A"
+      },
+      "English Literature": {
+        "current": "4",
+        "predicted": "N/A"
+      },
+      "Geography": {
+        "current": "7",
+        "predicted": "N/A"
+      },
+      "ICT": {
+        "current": "8",
+        "predicted": "N/A"
+      },
+      "Psychology": {
+        "current": "6",
+        "predicted": "N/A"
+      }
+    },
+    "raw_current": "Maths-4 Biology-5 Chemistry-9 Physics-5 English language-4 English literature-4 Geography-7 Ict-8 Psychology-6",
+    "raw_predicted": "hadn’t got them yet"
+  },
+  {
+    "name": "Peace Akins",
+    "school": "Holcombe Grammar School",
+    "year": "Year 12",
+    "subjects": {
+      "Law": {
+        "current": "N/A",
+        "predicted": "N/A"
+      },
+      "Ethics": {
+        "current": "A",
+        "predicted": "N/A"
+      },
+      "Politics": {
+        "current": "N/A",
+        "predicted": "N/A"
+      }
+    },
+    "raw_current": "Law - NA Ethics - A Politics- NA",
+    "raw_predicted": "Law - NA Politics - NA Ethics - NA"
+  },
+  {
+    "name": "Foday Fofana-Touri",
+    "school": "St. John fisher Comprehensive Catholic school",
+    "year": "Year 13",
+    "subjects": {
+      "Philosophy": {
+        "current": "D",
+        "predicted": "C"
+      },
+      "Health & Social Care": {
+        "current": "M",
+        "predicted": "D"
+      },
+      "Applied Science": {
+        "current": "P",
+        "predicted": "M"
+      }
+    },
+    "raw_current": "Philosophy - D Health and social - Merit Applied science - Pass",
+    "raw_predicted": "Philosophy- C Applied science - Merit Health and social - Distinction"
+  },
+  {
+    "name": "Nathaniel Nortey",
+    "school": "MidKent College",
+    "year": "First year of college",
+    "subjects": {
+      "Combined Subjects": {
+        "current": "IT",
+        "predicted": "N/A"
+      }
+    },
+    "raw_current": "IT",
+    "raw_predicted": ""
+  },
+  {
+    "name": "Rejoice Udo",
+    "school": "Midkent college Maidstone",
+    "year": "Year 1 of College",
+    "subjects": {
+      "Biology": {
+        "current": "6",
+        "predicted": "N/A"
+      },
+      "Chemistry": {
+        "current": "6",
+        "predicted": "N/A"
+      },
+      "Art": {
+        "current": "N/A",
+        "predicted": "JUST"
+      }
+    },
+    "raw_current": "Biology -6 Chemistry-6",
+    "raw_predicted": "I don't know, just started college."
+  },
+  {
+    "name": "Ricardo Dylan Edwards",
+    "school": "Brompton Academy/Chatham Grammar",
+    "year": "Year 13",
+    "subjects": {
+      "Sociology": {
+        "current": "C",
+        "predicted": "A"
+      },
+      "Sport": {
+        "current": "M",
+        "predicted": "D"
+      },
+      "Applied Science": {
+        "current": "P",
+        "predicted": "M"
+      }
+    },
+    "raw_current": "Sociology - C BTEC Sport - Merit BTEC Applied Science - Pass",
+    "raw_predicted": "Sociology - A BTEC Sport - Distinction BTEC Applied Science - Merit"
+  },
+  {
+    "name": "Samuel Fidelis Omeji",
+    "school": "SCL college Borehamwood FC",
+    "year": "Second year of college",
+    "subjects": {
+      "ICT": {
+        "current": "M",
+        "predicted": "D"
+      }
+    },
+    "raw_current": "Sports and nutrition - Merit",
+    "raw_predicted": "Sports and nutrition - Distinction"
+  },
+  {
+    "name": "Elianna Muwanga",
+    "school": "Mayfield Grammar school Gravesend",
+    "year": "Year 10",
+    "subjects": {
+      "Mathematics": {
+        "current": "4",
+        "predicted": "8"
+      },
+      "English Literature": {
+        "current": "8",
+        "predicted": "8"
+      },
+      "English Language": {
+        "current": "8",
+        "predicted": "8"
+      },
+      "Psychology": {
+        "current": "N",
+        "predicted": "N"
+      },
+      "History": {
+        "current": "7",
+        "predicted": "8"
+      },
+      "Physical Education": {
+        "current": "N",
+        "predicted": "8"
+      },
+      "Religious Studies": {
+        "current": "8",
+        "predicted": "9"
+      },
+      "Chemistry": {
+        "current": "N",
+        "predicted": "8"
+      },
+      "Biology": {
+        "current": "N",
+        "predicted": "8"
+      },
+      "Physics": {
+        "current": "7",
+        "predicted": "8"
+      },
+      "Sign Language": {
+        "current": "N",
+        "predicted": "N"
+      }
+    },
+    "raw_current": "Maths - 4, English Literature - 8, English Language - 8, Psychology- N/A, History - 7, PE - N/A, RE - 8, Chemistry - N/A, Biology - N/A, Physics - 7, Sign Language - N/A,",
+    "raw_predicted": "Maths - 8, English Literature - 8, English Language - 8, Psychology - N/A, History - 8, PE - 8, RE - 9, Chemistry - 8, Biology - 8, Physics - 8, Sign Language - N/A,"
+  },
+  {
+    "name": "El-Shaddai Sean Prest",
+    "school": "Midkent college",
+    "year": "2nd year of college",
+    "subjects": {
+      "Business Studies": {
+        "current": "M",
+        "predicted": "N/A"
+      },
+      "Mathematics": {
+        "current": "2",
+        "predicted": "N/A"
+      },
+      "English Language": {
+        "current": "3",
+        "predicted": "N/A"
+      }
+    },
+    "raw_current": "Business- Merit Maths -2 English -3",
+    "raw_predicted": ""
+  },
+  {
+    "name": "Mofe Joseph-obe",
+    "school": "Brompton",
+    "year": "Year 13",
+    "subjects": {
+      "Sociology": {
+        "current": "B",
+        "predicted": "N/A"
+      },
+      "Politics": {
+        "current": "B",
+        "predicted": "N/A"
+      },
+      "Media Studies": {
+        "current": "A",
+        "predicted": "N/A"
+      },
+      "Combined Subjects": {
+        "current": "N/A",
+        "predicted": "ABB"
+      }
+    },
+    "raw_current": "Socio- B Politics- B Media- A",
+    "raw_predicted": "ABB"
+  }
+]
